@@ -1,0 +1,27 @@
+#welcome-section
+{
+  height:100vw;
+  text-align:center;
+
+}
+#navbar{
+ 
+ 
+  
+  position:fixed;
+  top:0;
+ right:0;
+  width:100%;
+  background-color:green;
+  height:50px;
+}
+#profile-link{
+  color:red;
+  
+}
+#body{
+  background:#559;
+}
+@media(prefers-reduced-motion:no-preference){
+  scroll-behavior:smooth;
+}
